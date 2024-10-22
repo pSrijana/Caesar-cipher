@@ -3,13 +3,13 @@ The Caesar cipher is a simple encryption technique that was used by Julius Caesa
 
 # Features of Caesar Cipher
 Substitution cipher: The Caesar cipher is a type of substitution cipher, where each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
-Fixed key: 
+1) Fixed key: 
 The Caesar cipher uses a fixed key, which is the number of positions by which the letters are shifted. This key is known to both the sender and the receiver.
-Symmetric encryption: 
+2) Symmetric encryption: 
 The Caesar cipher is a symmetric encryption technique, meaning that the same key is used for both encryption and decryption.
-Limited keyspace: 
+3) Limited keyspace: 
 The Caesar cipher has a very limited keyspace of only 26 possible keys, as there are only 26 letters in the English alphabet.
-Vulnerable to brute force attacks: 
+4) Vulnerable to brute force attacks: 
 The Caesar cipher is vulnerable to brute force attacks, as there are only 26 possible keys to try.
-Easy to implement: 
+5) Easy to implement: 
 The Caesar cipher is very easy to implement and requires only simple arithmetic operations, making it a popular choice for simple encryption tasks.
